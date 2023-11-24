@@ -1,8 +1,9 @@
-title: Bensuperpc's website
-description: Its my new website :3
-theme: just-the-docs
-baseurl: ""
-url: https://bensuperpc.github.io
+title: Just the Docs
+description: A Jekyll theme for documentation
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://bensuperpc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+repository: just-the-docs/just-the-docs # for github-metadata
+remote_theme: just-the-docs/just-the-docs
 
 permalink: pretty
 
@@ -27,7 +28,6 @@ exclude:
    - package.json
    - package-lock.json
    - Rakefile
-   - README.md
    - CODE_OF_CONDUCT.md
    - docker-compose.yml
    - Dockerfile

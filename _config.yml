@@ -1,6 +1,6 @@
 title: Bensuperpc's website
 description: Its my new website :3
-remote_theme: just-the-docs
+theme: just-the-docs
 baseurl: ""
 url: https://bensuperpc.github.io
 
